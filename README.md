@@ -20,5 +20,5 @@ Site demonstrativo contendo uma galeria animada com imagens de grandes monumento
 ---
 
 ## Autor
-- [Mariane Rodrigues] (https://www.linkedin.com/in/mariane-rodrigues-93a02a25b/)
+- [Mariane Rodrigues](https://www.linkedin.com/in/mariane-rodrigues-93a02a25b/)
 
